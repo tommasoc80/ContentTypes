@@ -7,6 +7,9 @@ This repository contains:
 - the data to replicate a set of experiments for the identification of Content Types (in the folder "Datasets");
 - the best model for the identification of Content Types obtained adopting the [BiLSTM-CNN-CRF with ELMo-Representations for Sequence Tagging implementation](https://github.com/UKPLab/elmo-bilstm-cnn-crf) by Nils Reimers and Iryna Gurevych (in the folder "Best_Model").
 
+This work builds on ([Sprugnoli et al., 2017](https://www.aclweb.org/anthology/E17-2042.pdf)) where we first tested our annotation scheme and run preliminary experiments using linear models. Data related to this previous work is available on a separate [repository](https://github.com/dhfbk/content-types).
+
+
 
 ------------
 
@@ -48,4 +51,39 @@ Information included in the spreadsheets.
 
 #### TEXT CHARACTERISTICS: 
 The combination of the time and genre dimensions gives rise to 6 sub-corpora within our dataset: Contemporary News, Historical News, Contemporary Travel Reports, Historical Travel Reports, Contemporary Travel Guides, Historical Travel Guides. 
+
+------------
+
+### Results
+Results on the identification of CTs. Scores for bi-LSTM models are based on the average of P, R, and F1 per class over 5 multiple runs. Numbers in brackets indicate standard deviation. Bold numbers highlight the best results. 
+
+
+| **Model** | P | R | F1 |
+|----------------------|------------:|------------:|------------:|  
+| Baseline (majority) | 52.05 | 52.04 | 52.04 |  
+| CRF | 51.64 | 51.64 | 51.64 |  
+| CRF<sup>*</sup> | 63.29 | 63.29 | 63.29 |  
+| bi-LSTM-CRF standard | 70.74 (0.151) | 70.32 (0.130) | 70.56 (0.148) |  
+|**bi-LSTM-CRF ELMo** | **73.36 (0.568)** | **73.32 (0.556)** | **73.34 (0.591)** |
+
+
+Results across Genres. Scores are the average of P and R per class over 5 multiple runs. Numbers in brackets indicate standard deviation.
+
+| Train/Test |      News     |      News     |     Guides    |     Guides    |    Reports    |    Reports    |
+|------------|:-------------:|:-------------:|:-------------:|:-------------:|:-------------:|:-------------:|
+|            |       P       |       R       |       P       |       R       |       P       |       R       |
+| **News**       | 74.90 (1.074) | 76.68 (0.526) | 38.90 (0.919) | 43.10 (0.738) | 54.74 (0.861) | 59.74 (1.031) |
+| **Guides**     | 60.44 (0.808) | 64.30 (1.635) | 64.62 (1.028) | 65.82 (1.202) | 55.02 (1.461) | 56.68 (1.121) |
+| **Reports**    | 77.22 (0.901) | 78.26 (0.835) | 49.56 (1.006) | 51.12 (1.136) | 69.04 (0.709) | 69.56 (0.391) |
+
+
+
+Results across Time. Scores are the average of P and R per class over 5 multiple runs. Numbers in brackets indicate standard deviation.
+
+|  Train/Test  |  Contemporary |  Contemporary |   Historical  |   Historical  |
+|:------------:|:-------------:|:-------------:|:-------------:|:-------------:|
+|              |       P       |       R       |       P       |       R       |
+| **Contemporary** | 73.26 (0.996) | 73.72 (0.804) | 67.54 (1.154) | 67.96 (0.541) |
+| **Historical**   | 65.80 (1.902) | 67.20 (1.713) | 72.70 (1.004) | 73.30 (0.812) |
+
 
