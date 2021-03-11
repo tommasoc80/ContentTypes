@@ -6,8 +6,9 @@ This repository contains:
 - the [data statement](https://www.mitpressjournals.org/doi/pdf/10.1162/tacl_a_00041) related to CTD V1.5 (see below);
 - a set of spreadsheets containing metadata about the documents included in the dataset, e.g. year of publication, author's name, author's nationality, author's gender (in the folder "Documents_Metadata");
 - the data to replicate a set of experiments for the identification of Content Types (in the folder "Datasets");
-- the best model for the identification of Content Types obtained adopting the [BiLSTM-CNN-CRF with ELMo-Representations for Sequence Tagging implementation](https://github.com/UKPLab/elmo-bilstm-cnn-crf) by Nils Reimers and Iryna Gurevych (in the folder "Best_Model").
+- the best model for the identification of Content Types obtained adopting the [BiLSTM-CNN-CRF with ELMo-Representations for Sequence Tagging implementation](https://github.com/UKPLab/elmo-bilstm-cnn-crf) by Nils Reimers and Iryna Gurevych (in the folder "Best_Model");
 - the data used to calculate the Inter-Annotator Agreement (in the folder "IAA"): the script used for calculating Cohen's k is [online](https://github.com/johnnymoretti/CAT_R_Kappa_Cohen);
+
 This work builds on ([Sprugnoli et al., 2017](https://www.aclweb.org/anthology/E17-2042.pdf)) where we first tested our annotation scheme and run preliminary experiments using linear models. Data related to this previous work is available on a separate [repository](https://github.com/dhfbk/content-types).
 
 
