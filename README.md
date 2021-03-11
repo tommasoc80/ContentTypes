@@ -65,7 +65,7 @@ Results on the identification of CTs. Scores for bi-LSTM models are based on the
 | bi-LSTM-CRF standard (w. Komninos and Manandhar (2016)) | 70.74 (0.15) | 70.32 (0.13) | 70.56 (0.14) |  
 | bi-LSTM-CRF ELMo  | 71.92 (0.80) | 73.18 (0.78) | 72.55 (0.78) |
 | bi-LSTM-CRF ELMo+ (w. Komninos and Manandhar (2016)) | 73.8 (0.56) | 73.32 (0.55) | 73.34 (0.59) |
-|**bi-LSTM-CRF ELMo+ (w. word2vec) ** | **73.86 (0.95)** | **73.80 (0.96)** | **73.82 (0.94)** |
+|**bi-LSTM-CRF ELMo+ (w. word2vec)** | **73.86 (0.95)** | **73.80 (0.96)** | **73.82 (0.94)** |
 
 
 Results across Genres. Scores are the average of P and R per class over 5 multiple runs. Numbers in brackets indicate standard deviation.
