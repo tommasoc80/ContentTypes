@@ -2,6 +2,7 @@
 
 This repository contains:
 - the Content Type Dataset Version 1.5 (in the folder "Datasets");
+- the latest version of the guidelines for annotating Content Types;
 - the [data statement](https://www.mitpressjournals.org/doi/pdf/10.1162/tacl_a_00041) related to CTD V1.5 (see below);
 - a set of spreadsheets containing metadata about the documents included in the dataset, e.g. year of publication, author's name, author's nationality, author's gender (in the folder "Documents_Metadata");
 - the data to replicate a set of experiments for the identification of Content Types (in the folder "Datasets");
