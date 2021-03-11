@@ -1,0 +1,808 @@
+<Document doc_name="1)ITALY_30May2004.txt">
+<token t_id="1" sentence="0" number="0">ITALY</token>
+<token t_id="2" sentence="1" number="1">Sun</token>
+<token t_id="3" sentence="1" number="2">30</token>
+<token t_id="4" sentence="1" number="3">May</token>
+<token t_id="5" sentence="1" number="4">2004</token>
+<token t_id="6" sentence="2" number="5">Today</token>
+<token t_id="7" sentence="2" number="6">we</token>
+<token t_id="8" sentence="2" number="7">went</token>
+<token t_id="9" sentence="2" number="8">for</token>
+<token t_id="10" sentence="2" number="9">an</token>
+<token t_id="11" sentence="2" number="10">early</token>
+<token t_id="12" sentence="2" number="11">morning</token>
+<token t_id="13" sentence="2" number="12">drive</token>
+<token t_id="14" sentence="2" number="13">to</token>
+<token t_id="15" sentence="2" number="14">look</token>
+<token t_id="16" sentence="2" number="15">at</token>
+<token t_id="17" sentence="2" number="16">the</token>
+<token t_id="18" sentence="2" number="17">beautiful</token>
+<token t_id="19" sentence="2" number="18">Amalfi</token>
+<token t_id="20" sentence="2" number="19">coast</token>
+<token t_id="21" sentence="2" number="20">"</token>
+<token t_id="22" sentence="2" number="21">before</token>
+<token t_id="23" sentence="2" number="22">everyone</token>
+<token t_id="24" sentence="2" number="23">gets</token>
+<token t_id="25" sentence="2" number="24">up</token>
+<token t_id="26" sentence="2" number="25">"</token>
+<token t_id="27" sentence="2" number="26">Denise</token>
+<token t_id="28" sentence="2" number="27">said</token>
+<token t_id="29" sentence="2" number="28">.</token>
+<token t_id="30" sentence="3" number="29">Ha</token>
+<token t_id="31" sentence="3" number="30">ha</token>
+<token t_id="32" sentence="3" number="31">!</token>
+<token t_id="33" sentence="4" number="32">We</token>
+<token t_id="34" sentence="4" number="33">left</token>
+<token t_id="35" sentence="4" number="34">at</token>
+<token t_id="36" sentence="4" number="35">7.30</token>
+<token t_id="37" sentence="4" number="36">am</token>
+<token t_id="38" sentence="4" number="37">and</token>
+<token t_id="39" sentence="4" number="38">when</token>
+<token t_id="40" sentence="4" number="39">we</token>
+<token t_id="41" sentence="4" number="40">got</token>
+<token t_id="42" sentence="4" number="41">to</token>
+<token t_id="43" sentence="4" number="42">Sorrento</token>
+<token t_id="44" sentence="4" number="43">on</token>
+<token t_id="45" sentence="4" number="44">the</token>
+<token t_id="46" sentence="4" number="45">coast</token>
+<token t_id="47" sentence="4" number="46">the</token>
+<token t_id="48" sentence="4" number="47">traffic</token>
+<token t_id="49" sentence="4" number="48">was</token>
+<token t_id="50" sentence="4" number="49">terrible</token>
+<token t_id="51" sentence="4" number="50">.</token>
+<token t_id="52" sentence="5" number="51">We</token>
+<token t_id="53" sentence="5" number="52">were</token>
+<token t_id="54" sentence="5" number="53">in</token>
+<token t_id="55" sentence="5" number="54">a</token>
+<token t_id="56" sentence="5" number="55">'</token>
+<token t_id="57" sentence="5" number="56">convoy</token>
+<token t_id="58" sentence="5" number="57">'</token>
+<token t_id="59" sentence="5" number="58">along</token>
+<token t_id="60" sentence="5" number="59">with</token>
+<token t_id="61" sentence="5" number="60">17</token>
+<token t_id="62" sentence="5" number="61">tour</token>
+<token t_id="63" sentence="5" number="62">buses</token>
+<token t_id="64" sentence="5" number="63">and</token>
+<token t_id="65" sentence="5" number="64">that</token>
+<token t_id="66" sentence="5" number="65">is</token>
+<token t_id="67" sentence="5" number="66">where</token>
+<token t_id="68" sentence="5" number="67">we</token>
+<token t_id="69" sentence="5" number="68">stayed</token>
+<token t_id="70" sentence="5" number="69">driving</token>
+<token t_id="71" sentence="5" number="70">the</token>
+<token t_id="72" sentence="5" number="71">Amalfi</token>
+<token t_id="73" sentence="5" number="72">Way</token>
+<token t_id="74" sentence="5" number="73">for</token>
+<token t_id="75" sentence="5" number="74">about</token>
+<token t_id="76" sentence="5" number="75">3</token>
+<token t_id="77" sentence="5" number="76">hours</token>
+<token t_id="78" sentence="5" number="77">.</token>
+<token t_id="79" sentence="6" number="78">We</token>
+<token t_id="80" sentence="6" number="79">could</token>
+<token t_id="81" sentence="6" number="80">only</token>
+<token t_id="82" sentence="6" number="81">drive</token>
+<token t_id="83" sentence="6" number="82">along</token>
+<token t_id="84" sentence="6" number="83">the</token>
+<token t_id="85" sentence="6" number="84">coast</token>
+<token t_id="86" sentence="6" number="85">at</token>
+<token t_id="87" sentence="6" number="86">about</token>
+<token t_id="88" sentence="6" number="87">10k</token>
+<token t_id="89" sentence="6" number="88">per</token>
+<token t_id="90" sentence="6" number="89">hour</token>
+<token t_id="91" sentence="6" number="90">with</token>
+<token t_id="92" sentence="6" number="91">hundreds</token>
+<token t_id="93" sentence="6" number="92">of</token>
+<token t_id="94" sentence="6" number="93">cars</token>
+<token t_id="95" sentence="6" number="94">driving</token>
+<token t_id="96" sentence="6" number="95">in</token>
+<token t_id="97" sentence="6" number="96">both</token>
+<token t_id="98" sentence="6" number="97">directions</token>
+<token t_id="99" sentence="6" number="98">and</token>
+<token t_id="100" sentence="6" number="99">looking</token>
+<token t_id="101" sentence="6" number="100">for</token>
+<token t_id="102" sentence="6" number="101">parks</token>
+<token t_id="103" sentence="6" number="102">and</token>
+<token t_id="104" sentence="6" number="103">hundreds</token>
+<token t_id="105" sentence="6" number="104">already</token>
+<token t_id="106" sentence="6" number="105">parked</token>
+<token t_id="107" sentence="6" number="106">to</token>
+<token t_id="108" sentence="6" number="107">see</token>
+<token t_id="109" sentence="6" number="108">the</token>
+<token t_id="110" sentence="6" number="109">view</token>
+<token t_id="111" sentence="6" number="110">.</token>
+<token t_id="112" sentence="7" number="111">The</token>
+<token t_id="113" sentence="7" number="112">road</token>
+<token t_id="114" sentence="7" number="113">is</token>
+<token t_id="115" sentence="7" number="114">so</token>
+<token t_id="116" sentence="7" number="115">narrow</token>
+<token t_id="117" sentence="7" number="116">that</token>
+<token t_id="118" sentence="7" number="117">cars</token>
+<token t_id="119" sentence="7" number="118">had</token>
+<token t_id="120" sentence="7" number="119">to</token>
+<token t_id="121" sentence="7" number="120">back</token>
+<token t_id="122" sentence="7" number="121">up</token>
+<token t_id="123" sentence="7" number="122">to</token>
+<token t_id="124" sentence="7" number="123">let</token>
+<token t_id="125" sentence="7" number="124">buses</token>
+<token t_id="126" sentence="7" number="125">through</token>
+<token t_id="127" sentence="7" number="126">.</token>
+<token t_id="128" sentence="8" number="127">Numerous</token>
+<token t_id="129" sentence="8" number="128">S</token>
+<token t_id="130" sentence="8" number="129">bends</token>
+<token t_id="131" sentence="8" number="130">and</token>
+<token t_id="132" sentence="8" number="131">switchback</token>
+<token t_id="133" sentence="8" number="132">made</token>
+<token t_id="134" sentence="8" number="133">it</token>
+<token t_id="135" sentence="8" number="134">a</token>
+<token t_id="136" sentence="8" number="135">nightmare</token>
+<token t_id="137" sentence="8" number="136">.</token>
+<token t_id="138" sentence="9" number="137">Wonderful</token>
+<token t_id="139" sentence="9" number="138">views</token>
+<token t_id="140" sentence="9" number="139">however</token>
+<token t_id="141" sentence="9" number="140">and</token>
+<token t_id="142" sentence="9" number="141">perfect</token>
+<token t_id="143" sentence="9" number="142">weather</token>
+<token t_id="144" sentence="9" number="143">and</token>
+<token t_id="145" sentence="9" number="144">we</token>
+<token t_id="146" sentence="9" number="145">could</token>
+<token t_id="147" sentence="9" number="146">take</token>
+<token t_id="148" sentence="9" number="147">lots</token>
+<token t_id="149" sentence="9" number="148">of</token>
+<token t_id="150" sentence="9" number="149">photos</token>
+<token t_id="151" sentence="9" number="150">at</token>
+<token t_id="152" sentence="9" number="151">that</token>
+<token t_id="153" sentence="9" number="152">speed</token>
+<token t_id="154" sentence="9" number="153">.</token>
+<token t_id="155" sentence="10" number="154">When</token>
+<token t_id="156" sentence="10" number="155">we</token>
+<token t_id="157" sentence="10" number="156">got</token>
+<token t_id="158" sentence="10" number="157">to</token>
+<token t_id="159" sentence="10" number="158">the</token>
+<token t_id="160" sentence="10" number="159">village</token>
+<token t_id="161" sentence="10" number="160">of</token>
+<token t_id="162" sentence="10" number="161">Maiori</token>
+<token t_id="163" sentence="10" number="162">we</token>
+<token t_id="164" sentence="10" number="163">gave</token>
+<token t_id="165" sentence="10" number="164">up</token>
+<token t_id="166" sentence="10" number="165">and</token>
+<token t_id="167" sentence="10" number="166">turned</token>
+<token t_id="168" sentence="10" number="167">left</token>
+<token t_id="169" sentence="10" number="168">for</token>
+<token t_id="170" sentence="10" number="169">a</token>
+<token t_id="171" sentence="10" number="170">road</token>
+<token t_id="172" sentence="10" number="171">to</token>
+<token t_id="173" sentence="10" number="172">the</token>
+<token t_id="174" sentence="10" number="173">Autostrada</token>
+<token t_id="175" sentence="10" number="174">back</token>
+<token t_id="176" sentence="10" number="175">to</token>
+<token t_id="177" sentence="10" number="176">Pompeii</token>
+<token t_id="178" sentence="10" number="177">.</token>
+<token t_id="179" sentence="11" number="178">Bad</token>
+<token t_id="180" sentence="11" number="179">mistake</token>
+<token t_id="181" sentence="11" number="180">.</token>
+<token t_id="182" sentence="12" number="181">Although</token>
+<token t_id="183" sentence="12" number="182">the</token>
+<token t_id="184" sentence="12" number="183">sign</token>
+<token t_id="185" sentence="12" number="184">said</token>
+<token t_id="186" sentence="12" number="185">'</token>
+<token t_id="187" sentence="12" number="186">To</token>
+<token t_id="188" sentence="12" number="187">the</token>
+<token t_id="189" sentence="12" number="188">A3</token>
+<token t_id="190" sentence="12" number="189">'</token>
+<token t_id="191" sentence="12" number="190">it</token>
+<token t_id="192" sentence="12" number="191">did</token>
+<token t_id="193" sentence="12" number="192">n't</token>
+<token t_id="194" sentence="12" number="193">say</token>
+<token t_id="195" sentence="12" number="194">how</token>
+<token t_id="196" sentence="12" number="195">far</token>
+<token t_id="197" sentence="12" number="196">away</token>
+<token t_id="198" sentence="12" number="197">it</token>
+<token t_id="199" sentence="12" number="198">was</token>
+<token t_id="200" sentence="12" number="199">.</token>
+<token t_id="201" sentence="13" number="200">So</token>
+<token t_id="202" sentence="13" number="201">over</token>
+<token t_id="203" sentence="13" number="202">the</token>
+<token t_id="204" sentence="13" number="203">mountains</token>
+<token t_id="205" sentence="13" number="204">we</token>
+<token t_id="206" sentence="13" number="205">went</token>
+<token t_id="207" sentence="13" number="206">again</token>
+<token t_id="208" sentence="13" number="207">on</token>
+<token t_id="209" sentence="13" number="208">tiny</token>
+<token t_id="210" sentence="13" number="209">roads</token>
+<token t_id="211" sentence="13" number="210">with</token>
+<token t_id="212" sentence="13" number="211">switchbacks</token>
+<token t_id="213" sentence="13" number="212">and</token>
+<token t_id="214" sentence="13" number="213">small</token>
+<token t_id="215" sentence="13" number="214">villages</token>
+<token t_id="216" sentence="13" number="215">for</token>
+<token t_id="217" sentence="13" number="216">about</token>
+<token t_id="218" sentence="13" number="217">60</token>
+<token t_id="219" sentence="13" number="218">minutes</token>
+<token t_id="220" sentence="13" number="219">.</token>
+<token t_id="221" sentence="14" number="220">We</token>
+<token t_id="222" sentence="14" number="221">got</token>
+<token t_id="223" sentence="14" number="222">to</token>
+<token t_id="224" sentence="14" number="223">Corbara</token>
+<token t_id="225" sentence="14" number="224">,</token>
+<token t_id="226" sentence="14" number="225">then</token>
+<token t_id="227" sentence="14" number="226">to</token>
+<token t_id="228" sentence="14" number="227">Angri</token>
+<token t_id="229" sentence="14" number="228">but</token>
+<token t_id="230" sentence="14" number="229">somewhere</token>
+<token t_id="231" sentence="14" number="230">we</token>
+<token t_id="232" sentence="14" number="231">took</token>
+<token t_id="233" sentence="14" number="232">a</token>
+<token t_id="234" sentence="14" number="233">wrong</token>
+<token t_id="235" sentence="14" number="234">turn</token>
+<token t_id="236" sentence="14" number="235">(</token>
+<token t_id="237" sentence="14" number="236">again</token>
+<token t_id="238" sentence="14" number="237">)</token>
+<token t_id="239" sentence="14" number="238">and</token>
+<token t_id="240" sentence="14" number="239">ended</token>
+<token t_id="241" sentence="14" number="240">back</token>
+<token t_id="242" sentence="14" number="241">at</token>
+<token t_id="243" sentence="14" number="242">Angri</token>
+<token t_id="244" sentence="14" number="243">-</token>
+<token t_id="245" sentence="14" number="244">yes</token>
+<token t_id="246" sentence="14" number="245">angry</token>
+<token t_id="247" sentence="14" number="246">for</token>
+<token t_id="248" sentence="14" number="247">us</token>
+<token t_id="249" sentence="14" number="248">.</token>
+<token t_id="250" sentence="15" number="249">Studying</token>
+<token t_id="251" sentence="15" number="250">the</token>
+<token t_id="252" sentence="15" number="251">map</token>
+<token t_id="253" sentence="15" number="252">we</token>
+<token t_id="254" sentence="15" number="253">finally</token>
+<token t_id="255" sentence="15" number="254">ended</token>
+<token t_id="256" sentence="15" number="255">back</token>
+<token t_id="257" sentence="15" number="256">on</token>
+<token t_id="258" sentence="15" number="257">the</token>
+<token t_id="259" sentence="15" number="258">A3</token>
+<token t_id="260" sentence="15" number="259">Autostrada</token>
+<token t_id="261" sentence="15" number="260">.</token>
+<token t_id="262" sentence="16" number="261">I</token>
+<token t_id="263" sentence="16" number="262">also</token>
+<token t_id="264" sentence="16" number="263">ran</token>
+<token t_id="265" sentence="16" number="264">a</token>
+<token t_id="266" sentence="16" number="265">redlight</token>
+<token t_id="267" sentence="16" number="266">on</token>
+<token t_id="268" sentence="16" number="267">the</token>
+<token t_id="269" sentence="16" number="268">road</token>
+<token t_id="270" sentence="16" number="269">which</token>
+<token t_id="271" sentence="16" number="270">turned</token>
+<token t_id="272" sentence="16" number="271">out</token>
+<token t_id="273" sentence="16" number="272">to</token>
+<token t_id="274" sentence="16" number="273">be</token>
+<token t_id="275" sentence="16" number="274">a</token>
+<token t_id="276" sentence="16" number="275">one</token>
+<token t_id="277" sentence="16" number="276">lane</token>
+<token t_id="278" sentence="16" number="277">tunnel</token>
+<token t_id="279" sentence="16" number="278">but</token>
+<token t_id="280" sentence="16" number="279">we</token>
+<token t_id="281" sentence="16" number="280">managed</token>
+<token t_id="282" sentence="16" number="281">to</token>
+<token t_id="283" sentence="16" number="282">scrape</token>
+<token t_id="284" sentence="16" number="283">through</token>
+<token t_id="285" sentence="16" number="284">without</token>
+<token t_id="286" sentence="16" number="285">hitting</token>
+<token t_id="287" sentence="16" number="286">an</token>
+<token t_id="288" sentence="16" number="287">oncoming</token>
+<token t_id="289" sentence="16" number="288">car</token>
+<token t_id="290" sentence="16" number="289">!</token>
+<token t_id="291" sentence="17" number="290">Back</token>
+<token t_id="292" sentence="17" number="291">to</token>
+<token t_id="293" sentence="17" number="292">the</token>
+<token t_id="294" sentence="17" number="293">hotel</token>
+<token t_id="295" sentence="17" number="294">and</token>
+<token t_id="296" sentence="17" number="295">pizza</token>
+<token t_id="297" sentence="17" number="296">lunch</token>
+<token t_id="298" sentence="17" number="297">.</token>
+<token t_id="299" sentence="18" number="298">We</token>
+<token t_id="300" sentence="18" number="299">caught</token>
+<token t_id="301" sentence="18" number="300">the</token>
+<token t_id="302" sentence="18" number="301">train</token>
+<token t_id="303" sentence="18" number="302">from</token>
+<token t_id="304" sentence="18" number="303">Pompeii</token>
+<token t_id="305" sentence="18" number="304">to</token>
+<token t_id="306" sentence="18" number="305">Herculaneum</token>
+<token t_id="307" sentence="18" number="306">in</token>
+<token t_id="308" sentence="18" number="307">the</token>
+<token t_id="309" sentence="18" number="308">afternoon</token>
+<token t_id="310" sentence="18" number="309">.</token>
+<token t_id="311" sentence="19" number="310">Herculaneum</token>
+<token t_id="312" sentence="19" number="311">is</token>
+<token t_id="313" sentence="19" number="312">ruins</token>
+<token t_id="314" sentence="19" number="313">similar</token>
+<token t_id="315" sentence="19" number="314">to</token>
+<token t_id="316" sentence="19" number="315">Pompeii</token>
+<token t_id="317" sentence="19" number="316">but</token>
+<token t_id="318" sentence="19" number="317">closer</token>
+<token t_id="319" sentence="19" number="318">to</token>
+<token t_id="320" sentence="19" number="319">the</token>
+<token t_id="321" sentence="19" number="320">coast</token>
+<token t_id="322" sentence="19" number="321">and</token>
+<token t_id="323" sentence="19" number="322">have</token>
+<token t_id="324" sentence="19" number="323">been</token>
+<token t_id="325" sentence="19" number="324">nicely</token>
+<token t_id="326" sentence="19" number="325">excavated</token>
+<token t_id="327" sentence="19" number="326">.</token>
+<token t_id="328" sentence="20" number="327">Quite</token>
+<token t_id="329" sentence="20" number="328">impressive</token>
+<token t_id="330" sentence="20" number="329">to</token>
+<token t_id="331" sentence="20" number="330">walk</token>
+<token t_id="332" sentence="20" number="331">through</token>
+<token t_id="333" sentence="20" number="332">it</token>
+<token t_id="334" sentence="20" number="333">.</token>
+<token t_id="335" sentence="21" number="334">Then</token>
+<token t_id="336" sentence="21" number="335">took</token>
+<token t_id="337" sentence="21" number="336">the</token>
+<token t_id="338" sentence="21" number="337">train</token>
+<token t_id="339" sentence="21" number="338">back</token>
+<token t_id="340" sentence="21" number="339">to</token>
+<token t_id="341" sentence="21" number="340">Pompeii</token>
+<token t_id="342" sentence="21" number="341">(</token>
+<token t_id="343" sentence="21" number="342">80</token>
+<token t_id="344" sentence="21" number="343">Km</token>
+<token t_id="345" sentence="21" number="344">)</token>
+<token t_id="346" sentence="21" number="345">.</token>
+
+
+<Markables>
+<ARGUMENTATIVE m_id="12" comment="" conversational-direct="FALSE" conversational-reported="FALSE"  >
+<token_anchor t_id="38"/>
+<token_anchor t_id="47"/>
+<token_anchor t_id="48"/>
+<token_anchor t_id="49"/>
+<token_anchor t_id="50"/>
+<token_anchor t_id="51"/>
+</ARGUMENTATIVE>
+<ARGUMENTATIVE m_id="48" comment="" conversational-direct="FALSE" conversational-reported="FALSE"  >
+<token_anchor t_id="322"/>
+<token_anchor t_id="323"/>
+<token_anchor t_id="324"/>
+<token_anchor t_id="325"/>
+<token_anchor t_id="326"/>
+<token_anchor t_id="327"/>
+</ARGUMENTATIVE>
+<ARGUMENTATIVE m_id="49" comment="" conversational-direct="FALSE" conversational-reported="FALSE"  >
+<token_anchor t_id="328"/>
+<token_anchor t_id="329"/>
+<token_anchor t_id="330"/>
+<token_anchor t_id="331"/>
+<token_anchor t_id="332"/>
+<token_anchor t_id="333"/>
+<token_anchor t_id="334"/>
+</ARGUMENTATIVE>
+<ARGUMENTATIVE m_id="25" comment="" conversational-direct="FALSE" conversational-reported="FALSE"  >
+<token_anchor t_id="128"/>
+<token_anchor t_id="129"/>
+<token_anchor t_id="130"/>
+<token_anchor t_id="131"/>
+<token_anchor t_id="132"/>
+<token_anchor t_id="133"/>
+<token_anchor t_id="134"/>
+<token_anchor t_id="135"/>
+<token_anchor t_id="136"/>
+<token_anchor t_id="137"/>
+</ARGUMENTATIVE>
+<ARGUMENTATIVE m_id="26" comment="" conversational-direct="FALSE" conversational-reported="FALSE"  >
+<token_anchor t_id="138"/>
+<token_anchor t_id="139"/>
+<token_anchor t_id="140"/>
+<token_anchor t_id="141"/>
+<token_anchor t_id="142"/>
+<token_anchor t_id="143"/>
+<token_anchor t_id="144"/>
+<token_anchor t_id="145"/>
+<token_anchor t_id="146"/>
+<token_anchor t_id="147"/>
+<token_anchor t_id="148"/>
+<token_anchor t_id="149"/>
+<token_anchor t_id="150"/>
+<token_anchor t_id="151"/>
+<token_anchor t_id="152"/>
+<token_anchor t_id="153"/>
+<token_anchor t_id="154"/>
+</ARGUMENTATIVE>
+<ARGUMENTATIVE m_id="30" comment="" conversational-direct="FALSE" conversational-reported="FALSE"  >
+<token_anchor t_id="179"/>
+<token_anchor t_id="180"/>
+<token_anchor t_id="181"/>
+</ARGUMENTATIVE>
+<ARGUMENTATIVE m_id="6" comment="" conversational-direct="FALSE" conversational-reported="FALSE"  >
+<token_anchor t_id="14"/>
+<token_anchor t_id="15"/>
+<token_anchor t_id="16"/>
+<token_anchor t_id="17"/>
+<token_anchor t_id="18"/>
+<token_anchor t_id="19"/>
+<token_anchor t_id="20"/>
+</ARGUMENTATIVE>
+<ARGUMENTATIVE m_id="38" comment="" conversational-direct="FALSE" conversational-reported="FALSE"  >
+<token_anchor t_id="245"/>
+<token_anchor t_id="246"/>
+<token_anchor t_id="247"/>
+<token_anchor t_id="248"/>
+<token_anchor t_id="249"/>
+</ARGUMENTATIVE>
+<DESCRIPTIVE m_id="47" comment="" Type="" conversational-direct="FALSE" conversational-reported="FALSE"  >
+<token_anchor t_id="311"/>
+<token_anchor t_id="312"/>
+<token_anchor t_id="313"/>
+<token_anchor t_id="314"/>
+<token_anchor t_id="315"/>
+<token_anchor t_id="316"/>
+<token_anchor t_id="317"/>
+<token_anchor t_id="318"/>
+<token_anchor t_id="319"/>
+<token_anchor t_id="320"/>
+<token_anchor t_id="321"/>
+</DESCRIPTIVE>
+<DESCRIPTIVE m_id="22" comment="" Type="" conversational-direct="FALSE" conversational-reported="FALSE"  >
+<token_anchor t_id="112"/>
+<token_anchor t_id="113"/>
+<token_anchor t_id="114"/>
+<token_anchor t_id="115"/>
+<token_anchor t_id="116"/>
+</DESCRIPTIVE>
+<DESCRIPTIVE m_id="31" comment="" Type="" conversational-direct="FALSE" conversational-reported="FALSE"  >
+<token_anchor t_id="182"/>
+<token_anchor t_id="183"/>
+<token_anchor t_id="184"/>
+<token_anchor t_id="185"/>
+<token_anchor t_id="186"/>
+<token_anchor t_id="187"/>
+<token_anchor t_id="188"/>
+<token_anchor t_id="189"/>
+<token_anchor t_id="190"/>
+</DESCRIPTIVE>
+<LOCATION m_id="3" comment=""  >
+<token_anchor t_id="1"/>
+</LOCATION>
+<NARRATIVE m_id="41" Level="" comment="" conversational-direct="FALSE" conversational-reported="FALSE"  >
+<token_anchor t_id="262"/>
+<token_anchor t_id="263"/>
+<token_anchor t_id="264"/>
+<token_anchor t_id="265"/>
+<token_anchor t_id="266"/>
+<token_anchor t_id="267"/>
+<token_anchor t_id="268"/>
+<token_anchor t_id="269"/>
+<token_anchor t_id="270"/>
+<token_anchor t_id="271"/>
+<token_anchor t_id="272"/>
+<token_anchor t_id="273"/>
+<token_anchor t_id="274"/>
+<token_anchor t_id="275"/>
+<token_anchor t_id="276"/>
+<token_anchor t_id="277"/>
+<token_anchor t_id="278"/>
+</NARRATIVE>
+<NARRATIVE m_id="42" Level="" comment="" conversational-direct="FALSE" conversational-reported="FALSE"  >
+<token_anchor t_id="279"/>
+<token_anchor t_id="280"/>
+<token_anchor t_id="281"/>
+</NARRATIVE>
+<NARRATIVE m_id="10" Level="" comment="" conversational-direct="FALSE" conversational-reported="FALSE"  >
+<token_anchor t_id="33"/>
+<token_anchor t_id="34"/>
+<token_anchor t_id="35"/>
+<token_anchor t_id="36"/>
+<token_anchor t_id="37"/>
+</NARRATIVE>
+<NARRATIVE m_id="43" Level="" comment="" conversational-direct="FALSE" conversational-reported="FALSE"  >
+<token_anchor t_id="282"/>
+<token_anchor t_id="283"/>
+<token_anchor t_id="284"/>
+</NARRATIVE>
+<NARRATIVE m_id="11" Level="" comment="" conversational-direct="FALSE" conversational-reported="FALSE"  >
+<token_anchor t_id="39"/>
+<token_anchor t_id="40"/>
+<token_anchor t_id="41"/>
+<token_anchor t_id="42"/>
+<token_anchor t_id="43"/>
+<token_anchor t_id="44"/>
+<token_anchor t_id="45"/>
+<token_anchor t_id="46"/>
+</NARRATIVE>
+<NARRATIVE m_id="44" Level="" comment="" conversational-direct="FALSE" conversational-reported="FALSE"  >
+<token_anchor t_id="285"/>
+<token_anchor t_id="286"/>
+<token_anchor t_id="287"/>
+<token_anchor t_id="288"/>
+<token_anchor t_id="289"/>
+<token_anchor t_id="290"/>
+</NARRATIVE>
+<NARRATIVE m_id="45" Level="" comment="" conversational-direct="FALSE" conversational-reported="FALSE"  >
+<token_anchor t_id="291"/>
+<token_anchor t_id="292"/>
+<token_anchor t_id="293"/>
+<token_anchor t_id="294"/>
+<token_anchor t_id="295"/>
+<token_anchor t_id="296"/>
+<token_anchor t_id="297"/>
+<token_anchor t_id="298"/>
+</NARRATIVE>
+<NARRATIVE m_id="13" Level="" comment="" conversational-direct="FALSE" conversational-reported="FALSE"  >
+<token_anchor t_id="52"/>
+<token_anchor t_id="53"/>
+<token_anchor t_id="54"/>
+<token_anchor t_id="55"/>
+<token_anchor t_id="56"/>
+<token_anchor t_id="57"/>
+<token_anchor t_id="58"/>
+<token_anchor t_id="59"/>
+<token_anchor t_id="60"/>
+<token_anchor t_id="61"/>
+<token_anchor t_id="62"/>
+<token_anchor t_id="63"/>
+</NARRATIVE>
+<NARRATIVE m_id="46" Level="" comment="" conversational-direct="FALSE" conversational-reported="FALSE"  >
+<token_anchor t_id="299"/>
+<token_anchor t_id="300"/>
+<token_anchor t_id="301"/>
+<token_anchor t_id="302"/>
+<token_anchor t_id="303"/>
+<token_anchor t_id="304"/>
+<token_anchor t_id="305"/>
+<token_anchor t_id="306"/>
+<token_anchor t_id="307"/>
+<token_anchor t_id="308"/>
+<token_anchor t_id="309"/>
+<token_anchor t_id="310"/>
+</NARRATIVE>
+<NARRATIVE m_id="14" Level="" comment="" conversational-direct="FALSE" conversational-reported="FALSE"  >
+<token_anchor t_id="64"/>
+<token_anchor t_id="65"/>
+<token_anchor t_id="66"/>
+</NARRATIVE>
+<NARRATIVE m_id="15" Level="" comment="" conversational-direct="FALSE" conversational-reported="FALSE"  >
+<token_anchor t_id="67"/>
+<token_anchor t_id="68"/>
+<token_anchor t_id="69"/>
+</NARRATIVE>
+<NARRATIVE m_id="16" Level="" comment="" conversational-direct="FALSE" conversational-reported="FALSE"  >
+<token_anchor t_id="70"/>
+<token_anchor t_id="71"/>
+<token_anchor t_id="72"/>
+<token_anchor t_id="73"/>
+<token_anchor t_id="74"/>
+<token_anchor t_id="75"/>
+<token_anchor t_id="76"/>
+<token_anchor t_id="77"/>
+<token_anchor t_id="78"/>
+</NARRATIVE>
+<NARRATIVE m_id="17" Level="" comment="" conversational-direct="FALSE" conversational-reported="FALSE"  >
+<token_anchor t_id="79"/>
+<token_anchor t_id="80"/>
+<token_anchor t_id="81"/>
+<token_anchor t_id="82"/>
+<token_anchor t_id="83"/>
+<token_anchor t_id="84"/>
+<token_anchor t_id="85"/>
+<token_anchor t_id="86"/>
+<token_anchor t_id="87"/>
+<token_anchor t_id="88"/>
+<token_anchor t_id="89"/>
+<token_anchor t_id="90"/>
+</NARRATIVE>
+<NARRATIVE m_id="50" Level="" comment="" conversational-direct="FALSE" conversational-reported="FALSE"  >
+<token_anchor t_id="335"/>
+<token_anchor t_id="336"/>
+<token_anchor t_id="337"/>
+<token_anchor t_id="338"/>
+<token_anchor t_id="339"/>
+<token_anchor t_id="340"/>
+<token_anchor t_id="341"/>
+<token_anchor t_id="342"/>
+<token_anchor t_id="343"/>
+<token_anchor t_id="344"/>
+<token_anchor t_id="345"/>
+<token_anchor t_id="346"/>
+</NARRATIVE>
+<NARRATIVE m_id="18" Level="" comment="" conversational-direct="FALSE" conversational-reported="FALSE"  >
+<token_anchor t_id="91"/>
+<token_anchor t_id="92"/>
+<token_anchor t_id="93"/>
+<token_anchor t_id="94"/>
+<token_anchor t_id="95"/>
+<token_anchor t_id="96"/>
+<token_anchor t_id="97"/>
+<token_anchor t_id="98"/>
+</NARRATIVE>
+<NARRATIVE m_id="19" Level="" comment="" conversational-direct="FALSE" conversational-reported="FALSE"  >
+<token_anchor t_id="99"/>
+<token_anchor t_id="100"/>
+<token_anchor t_id="101"/>
+<token_anchor t_id="102"/>
+</NARRATIVE>
+<NARRATIVE m_id="20" Level="" comment="" conversational-direct="FALSE" conversational-reported="FALSE"  >
+<token_anchor t_id="103"/>
+<token_anchor t_id="104"/>
+<token_anchor t_id="105"/>
+<token_anchor t_id="106"/>
+</NARRATIVE>
+<NARRATIVE m_id="21" Level="" comment="" conversational-direct="FALSE" conversational-reported="FALSE"  >
+<token_anchor t_id="107"/>
+<token_anchor t_id="108"/>
+<token_anchor t_id="109"/>
+<token_anchor t_id="110"/>
+<token_anchor t_id="111"/>
+</NARRATIVE>
+<NARRATIVE m_id="23" Level="" comment="" conversational-direct="FALSE" conversational-reported="FALSE"  >
+<token_anchor t_id="117"/>
+<token_anchor t_id="118"/>
+<token_anchor t_id="119"/>
+<token_anchor t_id="120"/>
+<token_anchor t_id="121"/>
+<token_anchor t_id="122"/>
+</NARRATIVE>
+<NARRATIVE m_id="24" Level="" comment="" conversational-direct="FALSE" conversational-reported="FALSE"  >
+<token_anchor t_id="123"/>
+<token_anchor t_id="124"/>
+<token_anchor t_id="125"/>
+<token_anchor t_id="126"/>
+<token_anchor t_id="127"/>
+</NARRATIVE>
+<NARRATIVE m_id="27" Level="" comment="" conversational-direct="FALSE" conversational-reported="FALSE"  >
+<token_anchor t_id="155"/>
+<token_anchor t_id="156"/>
+<token_anchor t_id="157"/>
+<token_anchor t_id="158"/>
+<token_anchor t_id="159"/>
+<token_anchor t_id="160"/>
+<token_anchor t_id="161"/>
+<token_anchor t_id="162"/>
+</NARRATIVE>
+<NARRATIVE m_id="28" Level="" comment="" conversational-direct="FALSE" conversational-reported="FALSE"  >
+<token_anchor t_id="163"/>
+<token_anchor t_id="164"/>
+<token_anchor t_id="165"/>
+</NARRATIVE>
+<NARRATIVE m_id="29" Level="" comment="" conversational-direct="FALSE" conversational-reported="FALSE"  >
+<token_anchor t_id="166"/>
+<token_anchor t_id="167"/>
+<token_anchor t_id="168"/>
+<token_anchor t_id="169"/>
+<token_anchor t_id="170"/>
+<token_anchor t_id="171"/>
+<token_anchor t_id="172"/>
+<token_anchor t_id="173"/>
+<token_anchor t_id="174"/>
+<token_anchor t_id="175"/>
+<token_anchor t_id="176"/>
+<token_anchor t_id="177"/>
+<token_anchor t_id="178"/>
+</NARRATIVE>
+<NARRATIVE m_id="32" Level="" comment="" conversational-direct="FALSE" conversational-reported="FALSE"  >
+<token_anchor t_id="191"/>
+<token_anchor t_id="192"/>
+<token_anchor t_id="193"/>
+<token_anchor t_id="194"/>
+</NARRATIVE>
+<NARRATIVE m_id="33" Level="" comment="" conversational-direct="FALSE" conversational-reported="FALSE"  >
+<token_anchor t_id="195"/>
+<token_anchor t_id="196"/>
+<token_anchor t_id="197"/>
+<token_anchor t_id="198"/>
+<token_anchor t_id="199"/>
+<token_anchor t_id="200"/>
+</NARRATIVE>
+<NARRATIVE m_id="34" Level="" comment="" conversational-direct="FALSE" conversational-reported="FALSE"  >
+<token_anchor t_id="201"/>
+<token_anchor t_id="202"/>
+<token_anchor t_id="203"/>
+<token_anchor t_id="204"/>
+<token_anchor t_id="205"/>
+<token_anchor t_id="206"/>
+<token_anchor t_id="207"/>
+<token_anchor t_id="208"/>
+<token_anchor t_id="209"/>
+<token_anchor t_id="210"/>
+<token_anchor t_id="211"/>
+<token_anchor t_id="212"/>
+<token_anchor t_id="213"/>
+<token_anchor t_id="214"/>
+<token_anchor t_id="215"/>
+<token_anchor t_id="216"/>
+<token_anchor t_id="217"/>
+<token_anchor t_id="218"/>
+<token_anchor t_id="219"/>
+<token_anchor t_id="220"/>
+</NARRATIVE>
+<NARRATIVE m_id="35" Level="" comment="" conversational-direct="FALSE" conversational-reported="FALSE"  >
+<token_anchor t_id="221"/>
+<token_anchor t_id="222"/>
+<token_anchor t_id="223"/>
+<token_anchor t_id="224"/>
+<token_anchor t_id="225"/>
+<token_anchor t_id="226"/>
+<token_anchor t_id="227"/>
+<token_anchor t_id="228"/>
+</NARRATIVE>
+<NARRATIVE m_id="36" Level="" comment="" conversational-direct="FALSE" conversational-reported="FALSE"  >
+<token_anchor t_id="229"/>
+<token_anchor t_id="230"/>
+<token_anchor t_id="231"/>
+<token_anchor t_id="232"/>
+<token_anchor t_id="233"/>
+<token_anchor t_id="234"/>
+<token_anchor t_id="235"/>
+<token_anchor t_id="236"/>
+<token_anchor t_id="237"/>
+<token_anchor t_id="238"/>
+</NARRATIVE>
+<NARRATIVE m_id="5" Level="" comment="" conversational-direct="FALSE" conversational-reported="FALSE"  >
+<token_anchor t_id="6"/>
+<token_anchor t_id="7"/>
+<token_anchor t_id="8"/>
+<token_anchor t_id="9"/>
+<token_anchor t_id="10"/>
+<token_anchor t_id="11"/>
+<token_anchor t_id="12"/>
+<token_anchor t_id="13"/>
+</NARRATIVE>
+<NARRATIVE m_id="37" Level="" comment="" conversational-direct="FALSE" conversational-reported="FALSE"  >
+<token_anchor t_id="239"/>
+<token_anchor t_id="240"/>
+<token_anchor t_id="241"/>
+<token_anchor t_id="242"/>
+<token_anchor t_id="243"/>
+<token_anchor t_id="244"/>
+</NARRATIVE>
+<NARRATIVE m_id="7" Level="" comment="" conversational-direct="FALSE" conversational-reported="FALSE"  >
+<token_anchor t_id="21"/>
+<token_anchor t_id="22"/>
+<token_anchor t_id="23"/>
+<token_anchor t_id="24"/>
+<token_anchor t_id="25"/>
+<token_anchor t_id="26"/>
+</NARRATIVE>
+<NARRATIVE m_id="39" Level="" comment="" conversational-direct="FALSE" conversational-reported="FALSE"  >
+<token_anchor t_id="250"/>
+<token_anchor t_id="251"/>
+<token_anchor t_id="252"/>
+</NARRATIVE>
+<NARRATIVE m_id="40" Level="" comment="" conversational-direct="FALSE" conversational-reported="FALSE"  >
+<token_anchor t_id="253"/>
+<token_anchor t_id="254"/>
+<token_anchor t_id="255"/>
+<token_anchor t_id="256"/>
+<token_anchor t_id="257"/>
+<token_anchor t_id="258"/>
+<token_anchor t_id="259"/>
+<token_anchor t_id="260"/>
+<token_anchor t_id="261"/>
+</NARRATIVE>
+<NARRATIVE m_id="8" Level="" comment="" conversational-direct="FALSE" conversational-reported="FALSE"  >
+<token_anchor t_id="27"/>
+<token_anchor t_id="28"/>
+<token_anchor t_id="29"/>
+</NARRATIVE>
+<NONE m_id="1" comment=""  >
+<token_anchor t_id="1"/>
+</NONE>
+<NONE m_id="2" comment=""  >
+<token_anchor t_id="2"/>
+<token_anchor t_id="3"/>
+<token_anchor t_id="4"/>
+<token_anchor t_id="5"/>
+</NONE>
+<OTHER m_id="9" conversational-reported="FALSE" comment="" type="" conversational-direct="FALSE"  >
+<token_anchor t_id="30"/>
+<token_anchor t_id="31"/>
+<token_anchor t_id="32"/>
+</OTHER>
+<TIMEX3 m_id="4" comment="" DCT="yes" value="2004-05-30"  >
+<token_anchor t_id="2"/>
+<token_anchor t_id="3"/>
+<token_anchor t_id="4"/>
+<token_anchor t_id="5"/>
+</TIMEX3>
+
+
+</Markables>
+
+<Relations>
+</Relations>
+</Document>
