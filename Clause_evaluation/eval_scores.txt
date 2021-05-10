@@ -1,0 +1,39 @@
+
+testClause_elmo-w2v_out
+
+Test-Data: Prec: 0.758, Rec: 0.758, F1: 0.7577
+    ARGUMENTATIVE: precision:  66.73%; recall:  57.71%; FB1:  61.89  544
+      DESCRIPTIVE: precision:  71.76%; recall:  68.55%; FB1:  70.12  726
+       EXPOSITORY: precision:  61.11%; recall:  14.38%; FB1:  23.28  36
+      INSTRUCTIVE: precision:  70.73%; recall:  53.70%; FB1:  61.05  164
+        NARRATIVE: precision:  79.02%; recall:  89.97%; FB1:  84.14  2474
+             NONE: precision:  86.49%; recall:  93.02%; FB1:  89.64  185
+            OTHER: precision:  58.33%; recall:  37.84%; FB1:  45.90  48
+            
+            
+            
+            
+testClause-crf_out-evaluationFormat
+            
+Test-Data: Prec: 0.600, Rec: 0.600, F1: 0.6004
+    ARGUMENTATIVE: precision:  40.00%; recall:  23.21%; FB1:  29.38  365
+      DESCRIPTIVE: precision:  47.88%; recall:  44.61%; FB1:  46.19  708
+       EXPOSITORY: precision:  40.00%; recall:   5.23%; FB1:   9.25  20
+      INSTRUCTIVE: precision:  49.70%; recall:  38.43%; FB1:  43.34  167
+        NARRATIVE: precision:  66.30%; recall:  83.11%; FB1:  73.76  2724
+             NONE: precision:  73.51%; recall:  64.53%; FB1:  68.73  151
+            OTHER: precision:  35.71%; recall:  20.27%; FB1:  25.86  42
+            
+            
+            
+
+testClause-mostFrequent_out
+
+Test-Data: Prec: 0.520, Rec: 0.520, F1: 0.5202
+    ARGUMENTATIVE: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+      DESCRIPTIVE: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+       EXPOSITORY: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+      INSTRUCTIVE: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+        NARRATIVE: precision:  52.02%; recall: 100.00%; FB1:  68.44  4177
+             NONE: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+            OTHER: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
